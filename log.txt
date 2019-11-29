@@ -1,0 +1,6 @@
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/chier/Desktop/GA/build
+Scanning dependencies of target GA
+[ 20%] Building CXX object CMakeFiles/GA.dir/main.cc.o
+[ 40%] Building CXX object CMakeFiles/GA.dir/src/simulation.cc.o
