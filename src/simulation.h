@@ -34,6 +34,7 @@ private:
   std::vector<std::unique_ptr<Unit>> m_sons;
   double m_firstEpochBestValue = 0.0;
   const double m_eps = 1e-3;
+  int m_firstBestEpoch = 0;
 };
 
 #endif /* !SIMULATION_H_ */
